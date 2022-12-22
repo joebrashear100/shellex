@@ -1,0 +1,12 @@
+---
+:id: 153377817
+:submitters:
+- :name: Joseph Brashear
+  :email: brashearjo@vcu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-12-09 04:50:06.245217000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-12-08 20:50:06.245217000 Z
+:status: processed
+:score: 120.0
